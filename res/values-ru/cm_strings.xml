@@ -44,7 +44,7 @@
     <string name="template_list_title">Шаблоны</string>
     <string name="template_new_title">Новый шаблон</string>
     <string name="template_insert">Ввести шаблон</string>
-    <string name="template_gesture_draw">Нарисуйте жест в области ниже</string>
+    <string name="template_gesture_draw">Нарисуйте внизу жест</string>
     <string name="template_not_present_error">Нет шаблонов</string>
     <string name="template_not_present_error_title">Ошибка</string>
     <string name="template_confirm_dialog_title">Удалить?</string>
